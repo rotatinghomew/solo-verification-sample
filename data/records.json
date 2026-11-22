@@ -1,0 +1,3799 @@
+{
+  "frame": [
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-0",
+      "shared_activity": "X32-0-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-1",
+      "shared_activity": "X32-0-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-2",
+      "shared_activity": "X32-0-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-3",
+      "shared_activity": "X32-1-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-4",
+      "shared_activity": "X32-1-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-5",
+      "shared_activity": "X32-1-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-6",
+      "shared_activity": "X32-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-7",
+      "shared_activity": "X32-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-8",
+      "shared_activity": "X32-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-9",
+      "shared_activity": "X32-3-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-10",
+      "shared_activity": "X32-3-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-11",
+      "shared_activity": "X32-3-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-12",
+      "shared_activity": "X32-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-13",
+      "shared_activity": "X32-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-14",
+      "shared_activity": "X32-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-15",
+      "shared_activity": "X32-5-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-16",
+      "shared_activity": "X32-5-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-17",
+      "shared_activity": "X32-5-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-18",
+      "shared_activity": "X32-6-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-19",
+      "shared_activity": "X32-6-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-20",
+      "shared_activity": "X32-6-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-21",
+      "shared_activity": "X32-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-22",
+      "shared_activity": "X32-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "segment": "32-东-活动-23",
+      "shared_activity": "X32-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-0",
+      "shared_activity": "X32-0-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-1",
+      "shared_activity": "X32-0-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-2",
+      "shared_activity": "X32-0-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-3",
+      "shared_activity": "X32-1-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-4",
+      "shared_activity": "X32-1-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-5",
+      "shared_activity": "X32-1-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-6",
+      "shared_activity": "X32-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-7",
+      "shared_activity": "X32-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-8",
+      "shared_activity": "X32-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-9",
+      "shared_activity": "X32-3-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-10",
+      "shared_activity": "X32-3-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-11",
+      "shared_activity": "X32-3-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-12",
+      "shared_activity": "X32-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-13",
+      "shared_activity": "X32-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-14",
+      "shared_activity": "X32-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-15",
+      "shared_activity": "X32-5-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-16",
+      "shared_activity": "X32-5-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-17",
+      "shared_activity": "X32-5-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-18",
+      "shared_activity": "X32-6-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-19",
+      "shared_activity": "X32-6-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-20",
+      "shared_activity": "X32-6-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-21",
+      "shared_activity": "X32-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-22",
+      "shared_activity": "X32-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "segment": "32-南-活动-23",
+      "shared_activity": "X32-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-0",
+      "shared_activity": "X32-0-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-1",
+      "shared_activity": "X32-0-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-2",
+      "shared_activity": "X32-0-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-3",
+      "shared_activity": "X32-1-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-4",
+      "shared_activity": "X32-1-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-5",
+      "shared_activity": "X32-1-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-6",
+      "shared_activity": "X32-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-7",
+      "shared_activity": "X32-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-8",
+      "shared_activity": "X32-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-9",
+      "shared_activity": "X32-3-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-10",
+      "shared_activity": "X32-3-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-11",
+      "shared_activity": "X32-3-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-12",
+      "shared_activity": "X32-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-13",
+      "shared_activity": "X32-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-14",
+      "shared_activity": "X32-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-15",
+      "shared_activity": "X32-5-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-16",
+      "shared_activity": "X32-5-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-17",
+      "shared_activity": "X32-5-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-18",
+      "shared_activity": "X32-6-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-19",
+      "shared_activity": "X32-6-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-20",
+      "shared_activity": "X32-6-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-21",
+      "shared_activity": "X32-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-22",
+      "shared_activity": "X32-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "segment": "32-内-走读-23",
+      "shared_activity": "X32-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-0",
+      "shared_activity": "X32-0-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-1",
+      "shared_activity": "X32-0-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-2",
+      "shared_activity": "X32-0-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-3",
+      "shared_activity": "X32-1-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-4",
+      "shared_activity": "X32-1-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-5",
+      "shared_activity": "X32-1-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-6",
+      "shared_activity": "X32-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-7",
+      "shared_activity": "X32-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-8",
+      "shared_activity": "X32-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-9",
+      "shared_activity": "X32-3-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-10",
+      "shared_activity": "X32-3-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-11",
+      "shared_activity": "X32-3-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-12",
+      "shared_activity": "X32-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-13",
+      "shared_activity": "X32-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-14",
+      "shared_activity": "X32-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-15",
+      "shared_activity": "X32-5-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-16",
+      "shared_activity": "X32-5-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-17",
+      "shared_activity": "X32-5-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-18",
+      "shared_activity": "X32-6-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-19",
+      "shared_activity": "X32-6-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-20",
+      "shared_activity": "X32-6-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-21",
+      "shared_activity": "X32-7-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-22",
+      "shared_activity": "X32-7-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "segment": "32-东-走读-23",
+      "shared_activity": "X32-7-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-0",
+      "shared_activity": "X33-0-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-1",
+      "shared_activity": "X33-0-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-2",
+      "shared_activity": "X33-0-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-3",
+      "shared_activity": "X33-1-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-4",
+      "shared_activity": "X33-1-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-5",
+      "shared_activity": "X33-1-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-6",
+      "shared_activity": "X33-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-7",
+      "shared_activity": "X33-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-8",
+      "shared_activity": "X33-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-9",
+      "shared_activity": "X33-3-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-10",
+      "shared_activity": "X33-3-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-11",
+      "shared_activity": "X33-3-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-12",
+      "shared_activity": "X33-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-13",
+      "shared_activity": "X33-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-14",
+      "shared_activity": "X33-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-15",
+      "shared_activity": "X33-5-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-16",
+      "shared_activity": "X33-5-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-17",
+      "shared_activity": "X33-5-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-18",
+      "shared_activity": "X33-6-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-19",
+      "shared_activity": "X33-6-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-20",
+      "shared_activity": "X33-6-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-21",
+      "shared_activity": "X33-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-22",
+      "shared_activity": "X33-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "segment": "33-东-活动-23",
+      "shared_activity": "X33-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-0",
+      "shared_activity": "X33-0-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-1",
+      "shared_activity": "X33-0-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-2",
+      "shared_activity": "X33-0-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-3",
+      "shared_activity": "X33-1-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-4",
+      "shared_activity": "X33-1-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-5",
+      "shared_activity": "X33-1-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-6",
+      "shared_activity": "X33-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-7",
+      "shared_activity": "X33-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-8",
+      "shared_activity": "X33-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-9",
+      "shared_activity": "X33-3-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-10",
+      "shared_activity": "X33-3-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-11",
+      "shared_activity": "X33-3-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-12",
+      "shared_activity": "X33-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-13",
+      "shared_activity": "X33-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-14",
+      "shared_activity": "X33-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-15",
+      "shared_activity": "X33-5-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-16",
+      "shared_activity": "X33-5-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-17",
+      "shared_activity": "X33-5-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-18",
+      "shared_activity": "X33-6-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-19",
+      "shared_activity": "X33-6-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-20",
+      "shared_activity": "X33-6-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-21",
+      "shared_activity": "X33-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-22",
+      "shared_activity": "X33-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "segment": "33-南-活动-23",
+      "shared_activity": "X33-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-0",
+      "shared_activity": "X33-0-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-1",
+      "shared_activity": "X33-0-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-2",
+      "shared_activity": "X33-0-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-3",
+      "shared_activity": "X33-1-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-4",
+      "shared_activity": "X33-1-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-5",
+      "shared_activity": "X33-1-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-6",
+      "shared_activity": "X33-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-7",
+      "shared_activity": "X33-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-8",
+      "shared_activity": "X33-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-9",
+      "shared_activity": "X33-3-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-10",
+      "shared_activity": "X33-3-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-11",
+      "shared_activity": "X33-3-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-12",
+      "shared_activity": "X33-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-13",
+      "shared_activity": "X33-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-14",
+      "shared_activity": "X33-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-15",
+      "shared_activity": "X33-5-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-16",
+      "shared_activity": "X33-5-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-17",
+      "shared_activity": "X33-5-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-18",
+      "shared_activity": "X33-6-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-19",
+      "shared_activity": "X33-6-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-20",
+      "shared_activity": "X33-6-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-21",
+      "shared_activity": "X33-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-22",
+      "shared_activity": "X33-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "segment": "33-内-走读-23",
+      "shared_activity": "X33-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-0",
+      "shared_activity": "X33-0-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-1",
+      "shared_activity": "X33-0-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-2",
+      "shared_activity": "X33-0-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-3",
+      "shared_activity": "X33-1-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-4",
+      "shared_activity": "X33-1-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-5",
+      "shared_activity": "X33-1-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-6",
+      "shared_activity": "X33-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-7",
+      "shared_activity": "X33-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-8",
+      "shared_activity": "X33-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-9",
+      "shared_activity": "X33-3-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-10",
+      "shared_activity": "X33-3-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-11",
+      "shared_activity": "X33-3-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-12",
+      "shared_activity": "X33-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-13",
+      "shared_activity": "X33-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-14",
+      "shared_activity": "X33-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-15",
+      "shared_activity": "X33-5-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-16",
+      "shared_activity": "X33-5-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-17",
+      "shared_activity": "X33-5-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-18",
+      "shared_activity": "X33-6-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-19",
+      "shared_activity": "X33-6-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-20",
+      "shared_activity": "X33-6-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-21",
+      "shared_activity": "X33-7-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-22",
+      "shared_activity": "X33-7-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "segment": "33-东-走读-23",
+      "shared_activity": "X33-7-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-0",
+      "shared_activity": "X34-0-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-1",
+      "shared_activity": "X34-0-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-2",
+      "shared_activity": "X34-0-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-3",
+      "shared_activity": "X34-1-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-4",
+      "shared_activity": "X34-1-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-5",
+      "shared_activity": "X34-1-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-6",
+      "shared_activity": "X34-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-7",
+      "shared_activity": "X34-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-8",
+      "shared_activity": "X34-2-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-9",
+      "shared_activity": "X34-3-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-10",
+      "shared_activity": "X34-3-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-11",
+      "shared_activity": "X34-3-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-12",
+      "shared_activity": "X34-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-13",
+      "shared_activity": "X34-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-14",
+      "shared_activity": "X34-4-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-15",
+      "shared_activity": "X34-5-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-16",
+      "shared_activity": "X34-5-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-17",
+      "shared_activity": "X34-5-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-18",
+      "shared_activity": "X34-6-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-19",
+      "shared_activity": "X34-6-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-20",
+      "shared_activity": "X34-6-活动",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-21",
+      "shared_activity": "X34-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-22",
+      "shared_activity": "X34-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "segment": "34-东-活动-23",
+      "shared_activity": "X34-7-活动",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-0",
+      "shared_activity": "X34-0-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-1",
+      "shared_activity": "X34-0-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-2",
+      "shared_activity": "X34-0-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-3",
+      "shared_activity": "X34-1-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-4",
+      "shared_activity": "X34-1-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-5",
+      "shared_activity": "X34-1-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-6",
+      "shared_activity": "X34-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-7",
+      "shared_activity": "X34-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-8",
+      "shared_activity": "X34-2-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-9",
+      "shared_activity": "X34-3-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-10",
+      "shared_activity": "X34-3-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-11",
+      "shared_activity": "X34-3-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-12",
+      "shared_activity": "X34-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-13",
+      "shared_activity": "X34-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-14",
+      "shared_activity": "X34-4-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-15",
+      "shared_activity": "X34-5-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-16",
+      "shared_activity": "X34-5-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-17",
+      "shared_activity": "X34-5-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-18",
+      "shared_activity": "X34-6-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-19",
+      "shared_activity": "X34-6-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-20",
+      "shared_activity": "X34-6-活动",
+      "site": "南",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-21",
+      "shared_activity": "X34-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-22",
+      "shared_activity": "X34-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "segment": "34-南-活动-23",
+      "shared_activity": "X34-7-活动",
+      "site": "南",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-0",
+      "shared_activity": "X34-0-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-1",
+      "shared_activity": "X34-0-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-2",
+      "shared_activity": "X34-0-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-3",
+      "shared_activity": "X34-1-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-4",
+      "shared_activity": "X34-1-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-5",
+      "shared_activity": "X34-1-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-6",
+      "shared_activity": "X34-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-7",
+      "shared_activity": "X34-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-8",
+      "shared_activity": "X34-2-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-9",
+      "shared_activity": "X34-3-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-10",
+      "shared_activity": "X34-3-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-11",
+      "shared_activity": "X34-3-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-12",
+      "shared_activity": "X34-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-13",
+      "shared_activity": "X34-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-14",
+      "shared_activity": "X34-4-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-15",
+      "shared_activity": "X34-5-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-16",
+      "shared_activity": "X34-5-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-17",
+      "shared_activity": "X34-5-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-18",
+      "shared_activity": "X34-6-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-19",
+      "shared_activity": "X34-6-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-20",
+      "shared_activity": "X34-6-走读",
+      "site": "内",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-21",
+      "shared_activity": "X34-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-22",
+      "shared_activity": "X34-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "segment": "34-内-走读-23",
+      "shared_activity": "X34-7-走读",
+      "site": "内",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-0",
+      "shared_activity": "X34-0-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-1",
+      "shared_activity": "X34-0-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-2",
+      "shared_activity": "X34-0-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-3",
+      "shared_activity": "X34-1-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-4",
+      "shared_activity": "X34-1-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-5",
+      "shared_activity": "X34-1-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-6",
+      "shared_activity": "X34-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-7",
+      "shared_activity": "X34-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-8",
+      "shared_activity": "X34-2-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-9",
+      "shared_activity": "X34-3-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-10",
+      "shared_activity": "X34-3-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-11",
+      "shared_activity": "X34-3-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-12",
+      "shared_activity": "X34-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-13",
+      "shared_activity": "X34-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-14",
+      "shared_activity": "X34-4-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-15",
+      "shared_activity": "X34-5-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-16",
+      "shared_activity": "X34-5-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-17",
+      "shared_activity": "X34-5-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-18",
+      "shared_activity": "X34-6-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-19",
+      "shared_activity": "X34-6-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-20",
+      "shared_activity": "X34-6-走读",
+      "site": "东",
+      "reported": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-21",
+      "shared_activity": "X34-7-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-22",
+      "shared_activity": "X34-7-走读",
+      "site": "东",
+      "reported": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "segment": "34-东-走读-23",
+      "shared_activity": "X34-7-走读",
+      "site": "东",
+      "reported": true
+    }
+  ],
+  "draws": [
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "unit": "32-东-活动-17",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "unit": "32-东-活动-4",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "unit": "32-东-活动-23",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "unit": "32-东-活动-11",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "unit": "32-东-活动-10",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "unit": "32-东-活动-9",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "unit": "32-东-活动-5",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "unit": "32-东-活动-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "32/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "unit": "32-南-活动-16",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "unit": "32-南-活动-5",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "unit": "32-南-活动-23",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "unit": "32-南-活动-21",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "unit": "32-南-活动-1",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "unit": "32-南-活动-10",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "unit": "32-南-活动-18",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "unit": "32-南-活动-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "32/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "unit": "32-内-走读-17",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "unit": "32-内-走读-7",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "unit": "32-内-走读-9",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "unit": "32-内-走读-23",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "unit": "32-内-走读-14",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "unit": "32-内-走读-1",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "unit": "32-内-走读-20",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "unit": "32-内-走读-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "32/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "unit": "32-东-走读-11",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "unit": "32-东-走读-13",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "unit": "32-东-走读-17",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "unit": "32-东-走读-0",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "unit": "32-东-走读-19",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "unit": "32-东-走读-4",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "unit": "32-东-走读-1",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "32/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "unit": "32-东-走读-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "32/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "unit": "33-东-活动-13",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "unit": "33-东-活动-14",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "unit": "33-东-活动-7",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "unit": "33-东-活动-11",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "unit": "33-东-活动-21",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "unit": "33-东-活动-5",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "unit": "33-东-活动-8",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "unit": "33-东-活动-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "33/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "unit": "33-南-活动-6",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "unit": "33-南-活动-20",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "unit": "33-南-活动-5",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "unit": "33-南-活动-19",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "unit": "33-南-活动-18",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "unit": "33-南-活动-11",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "unit": "33-南-活动-13",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "unit": "33-南-活动-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "33/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "unit": "33-内-走读-7",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "unit": "33-内-走读-20",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "unit": "33-内-走读-10",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "unit": "33-内-走读-22",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "unit": "33-内-走读-9",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "unit": "33-内-走读-12",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "unit": "33-内-走读-19",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "unit": "33-内-走读-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "33/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "unit": "33-东-走读-16",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "unit": "33-东-走读-14",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "unit": "33-东-走读-20",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "unit": "33-东-走读-10",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "unit": "33-东-走读-3",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "unit": "33-东-走读-21",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "unit": "33-东-走读-7",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "33/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "unit": "33-东-走读-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "33/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "unit": "34-东-活动-12",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "unit": "34-东-活动-23",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "unit": "34-东-活动-18",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "unit": "34-东-活动-0",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "unit": "34-东-活动-2",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "unit": "34-东-活动-21",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-活动",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "unit": "34-东-活动-22",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "unit": "34-东-活动-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "34/东-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "unit": "34-南-活动-21",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "unit": "34-南-活动-16",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "unit": "34-南-活动-15",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "unit": "34-南-活动-7",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "unit": "34-南-活动-3",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "unit": "34-南-活动-20",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "unit": "34-南-活动-17",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/南-活动",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "unit": "34-南-活动-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "34/南-活动",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "unit": "34-内-走读-8",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "unit": "34-内-走读-13",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "unit": "34-内-走读-22",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "unit": "34-内-走读-19",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "unit": "34-内-走读-18",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "unit": "34-内-走读-7",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "unit": "34-内-走读-9",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/内-走读",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "unit": "34-内-走读-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "34/内-走读",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "unit": "34-东-走读-19",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "unit": "34-东-走读-14",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "unit": "34-东-走读-10",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "unit": "34-东-走读-6",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-走读",
+      "appointment": true
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "unit": "34-东-走读-15",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "unit": "34-东-走读-13",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "unit": "34-东-走读-11",
+      "mode": "预先随机",
+      "n": 7,
+      "N": 24,
+      "freeze": "34/东-走读",
+      "appointment": false
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "unit": "34-东-走读-23",
+      "mode": "指定核查",
+      "n": null,
+      "N": null,
+      "freeze": "34/东-走读",
+      "appointment": true
+    }
+  ],
+  "results": [
+    {
+      "unit": "32-东-活动-17",
+      "received_week": 33,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "32-东-活动-4",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-东-活动-23",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-东-活动-11",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-东-活动-10",
+      "received_week": 33,
+      "outcome": "失联"
+    },
+    {
+      "unit": "32-东-活动-9",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-东-活动-5",
+      "received_week": 33,
+      "outcome": "失联"
+    },
+    {
+      "unit": "32-南-活动-16",
+      "received_week": 33,
+      "outcome": "失联"
+    },
+    {
+      "unit": "32-南-活动-5",
+      "received_week": 33,
+      "outcome": "失联"
+    },
+    {
+      "unit": "32-南-活动-23",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-南-活动-21",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-南-活动-1",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-南-活动-10",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-南-活动-18",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-内-走读-17",
+      "received_week": 33,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "32-内-走读-7",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-内-走读-9",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-内-走读-23",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-内-走读-14",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-内-走读-1",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-内-走读-20",
+      "received_week": 33,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "32-东-走读-11",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-东-走读-13",
+      "received_week": 33,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "32-东-走读-17",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-东-走读-0",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-东-走读-19",
+      "received_week": 33,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "32-东-走读-4",
+      "received_week": 33,
+      "outcome": "到场"
+    },
+    {
+      "unit": "32-东-走读-1",
+      "received_week": 33,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "33-东-活动-13",
+      "received_week": 34,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "33-东-活动-14",
+      "received_week": 34,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "33-东-活动-7",
+      "received_week": 34,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "33-东-活动-11",
+      "received_week": 34,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "33-东-活动-21",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-东-活动-5",
+      "received_week": 34,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "33-东-活动-8",
+      "received_week": 34,
+      "outcome": "失联"
+    },
+    {
+      "unit": "33-南-活动-6",
+      "received_week": 34,
+      "outcome": "失联"
+    },
+    {
+      "unit": "33-南-活动-20",
+      "received_week": 34,
+      "outcome": "失联"
+    },
+    {
+      "unit": "33-南-活动-5",
+      "received_week": 34,
+      "outcome": "失联"
+    },
+    {
+      "unit": "33-南-活动-19",
+      "received_week": 34,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "33-南-活动-18",
+      "received_week": 34,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "33-南-活动-11",
+      "received_week": 34,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "33-南-活动-13",
+      "received_week": 34,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "33-内-走读-7",
+      "received_week": 34,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "33-内-走读-20",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-内-走读-10",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-内-走读-22",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-内-走读-9",
+      "received_week": 34,
+      "outcome": "失联"
+    },
+    {
+      "unit": "33-内-走读-12",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-内-走读-19",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-东-走读-16",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-东-走读-14",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-东-走读-20",
+      "received_week": 34,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "33-东-走读-10",
+      "received_week": 34,
+      "outcome": "失联"
+    },
+    {
+      "unit": "33-东-走读-3",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "33-东-走读-21",
+      "received_week": 34,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "33-东-走读-7",
+      "received_week": 34,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-东-活动-12",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-东-活动-23",
+      "received_week": 35,
+      "outcome": "失联"
+    },
+    {
+      "unit": "34-东-活动-18",
+      "received_week": 35,
+      "outcome": "失联"
+    },
+    {
+      "unit": "34-东-活动-0",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-东-活动-2",
+      "received_week": 35,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "34-东-活动-21",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-东-活动-22",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-南-活动-21",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-南-活动-16",
+      "received_week": 35,
+      "outcome": "失联"
+    },
+    {
+      "unit": "34-南-活动-15",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-南-活动-7",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-南-活动-3",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-南-活动-20",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-南-活动-17",
+      "received_week": 35,
+      "outcome": "失联"
+    },
+    {
+      "unit": "34-内-走读-8",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-内-走读-13",
+      "received_week": 35,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "34-内-走读-22",
+      "received_week": 35,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "34-内-走读-19",
+      "received_week": 35,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "34-内-走读-18",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-内-走读-7",
+      "received_week": 35,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "34-内-走读-9",
+      "received_week": 35,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "34-东-走读-19",
+      "received_week": 35,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "34-东-走读-14",
+      "received_week": 35,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "34-东-走读-10",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-东-走读-6",
+      "received_week": 35,
+      "outcome": "未到场"
+    },
+    {
+      "unit": "34-东-走读-15",
+      "received_week": 35,
+      "outcome": "到场"
+    },
+    {
+      "unit": "34-东-走读-13",
+      "received_week": 35,
+      "outcome": "拒绝出证"
+    },
+    {
+      "unit": "34-东-走读-11",
+      "received_week": 35,
+      "outcome": "失联"
+    }
+  ],
+  "revisions": [
+    {
+      "known_week": 35,
+      "kind": "后补",
+      "unit": "34-东-活动-24",
+      "canonical": null,
+      "stratum": "东-活动",
+      "reported": true
+    },
+    {
+      "known_week": 35,
+      "kind": "重复申报",
+      "unit": "34-东-活动-17",
+      "canonical": "34-东-活动-16",
+      "stratum": "东-活动",
+      "reported": null
+    },
+    {
+      "known_week": 35,
+      "kind": "后补",
+      "unit": "34-南-活动-24",
+      "canonical": null,
+      "stratum": "南-活动",
+      "reported": true
+    },
+    {
+      "known_week": 35,
+      "kind": "重复申报",
+      "unit": "34-南-活动-17",
+      "canonical": "34-南-活动-16",
+      "stratum": "南-活动",
+      "reported": null
+    },
+    {
+      "known_week": 35,
+      "kind": "后补",
+      "unit": "34-内-走读-24",
+      "canonical": null,
+      "stratum": "内-走读",
+      "reported": true
+    },
+    {
+      "known_week": 35,
+      "kind": "重复申报",
+      "unit": "34-内-走读-17",
+      "canonical": "34-内-走读-16",
+      "stratum": "内-走读",
+      "reported": null
+    },
+    {
+      "known_week": 35,
+      "kind": "后补",
+      "unit": "34-东-走读-24",
+      "canonical": null,
+      "stratum": "东-走读",
+      "reported": true
+    },
+    {
+      "known_week": 35,
+      "kind": "重复申报",
+      "unit": "34-东-走读-17",
+      "canonical": "34-东-走读-16",
+      "stratum": "东-走读",
+      "reported": null
+    }
+  ],
+  "staff": [
+    {
+      "week": 35,
+      "site": "东",
+      "investigator": "A",
+      "slots": 3
+    },
+    {
+      "week": 35,
+      "site": "南",
+      "investigator": "B",
+      "slots": 2
+    },
+    {
+      "week": 35,
+      "site": "内",
+      "investigator": "C",
+      "slots": 1
+    },
+    {
+      "week": 35,
+      "site": "东",
+      "investigator": "D",
+      "slots": 2
+    }
+  ],
+  "release": {
+    "published_through": 33,
+    "confidence": 0.9,
+    "groups": [
+      "活动",
+      "走读"
+    ],
+    "max_width": 0.28,
+    "minimum_verified": 5,
+    "valid_frame_weeks": [
+      32,
+      33,
+      34
+    ]
+  }
+}
