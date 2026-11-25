@@ -1,0 +1,3018 @@
+{
+  "planning_week": 35,
+  "release_contract": {
+    "published_through": 33,
+    "confidence": 0.9,
+    "groups": [
+      "活动",
+      "走读"
+    ],
+    "max_width": 0.28,
+    "minimum_verified": 5,
+    "valid_frame_weeks": [
+      32,
+      33,
+      34
+    ]
+  },
+  "frame_versions": [
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "site": "东",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [],
+      "late_units": [],
+      "covered_by_frozen_draw": [
+        "32-东-活动-0",
+        "32-东-活动-1",
+        "32-东-活动-10",
+        "32-东-活动-11",
+        "32-东-活动-12",
+        "32-东-活动-13",
+        "32-东-活动-14",
+        "32-东-活动-15",
+        "32-东-活动-16",
+        "32-东-活动-17",
+        "32-东-活动-18",
+        "32-东-活动-19",
+        "32-东-活动-2",
+        "32-东-活动-20",
+        "32-东-活动-21",
+        "32-东-活动-22",
+        "32-东-活动-23",
+        "32-东-活动-3",
+        "32-东-活动-4",
+        "32-东-活动-5",
+        "32-东-活动-6",
+        "32-东-活动-7",
+        "32-东-活动-8",
+        "32-东-活动-9"
+      ],
+      "uncovered_units": []
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "site": "东",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [],
+      "late_units": [],
+      "covered_by_frozen_draw": [
+        "32-东-走读-0",
+        "32-东-走读-1",
+        "32-东-走读-10",
+        "32-东-走读-11",
+        "32-东-走读-12",
+        "32-东-走读-13",
+        "32-东-走读-14",
+        "32-东-走读-15",
+        "32-东-走读-16",
+        "32-东-走读-17",
+        "32-东-走读-18",
+        "32-东-走读-19",
+        "32-东-走读-2",
+        "32-东-走读-20",
+        "32-东-走读-21",
+        "32-东-走读-22",
+        "32-东-走读-23",
+        "32-东-走读-3",
+        "32-东-走读-4",
+        "32-东-走读-5",
+        "32-东-走读-6",
+        "32-东-走读-7",
+        "32-东-走读-8",
+        "32-东-走读-9"
+      ],
+      "uncovered_units": []
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "site": "内",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [],
+      "late_units": [],
+      "covered_by_frozen_draw": [
+        "32-内-走读-0",
+        "32-内-走读-1",
+        "32-内-走读-10",
+        "32-内-走读-11",
+        "32-内-走读-12",
+        "32-内-走读-13",
+        "32-内-走读-14",
+        "32-内-走读-15",
+        "32-内-走读-16",
+        "32-内-走读-17",
+        "32-内-走读-18",
+        "32-内-走读-19",
+        "32-内-走读-2",
+        "32-内-走读-20",
+        "32-内-走读-21",
+        "32-内-走读-22",
+        "32-内-走读-23",
+        "32-内-走读-3",
+        "32-内-走读-4",
+        "32-内-走读-5",
+        "32-内-走读-6",
+        "32-内-走读-7",
+        "32-内-走读-8",
+        "32-内-走读-9"
+      ],
+      "uncovered_units": []
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "site": "南",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [],
+      "late_units": [],
+      "covered_by_frozen_draw": [
+        "32-南-活动-0",
+        "32-南-活动-1",
+        "32-南-活动-10",
+        "32-南-活动-11",
+        "32-南-活动-12",
+        "32-南-活动-13",
+        "32-南-活动-14",
+        "32-南-活动-15",
+        "32-南-活动-16",
+        "32-南-活动-17",
+        "32-南-活动-18",
+        "32-南-活动-19",
+        "32-南-活动-2",
+        "32-南-活动-20",
+        "32-南-活动-21",
+        "32-南-活动-22",
+        "32-南-活动-23",
+        "32-南-活动-3",
+        "32-南-活动-4",
+        "32-南-活动-5",
+        "32-南-活动-6",
+        "32-南-活动-7",
+        "32-南-活动-8",
+        "32-南-活动-9"
+      ],
+      "uncovered_units": []
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "site": "东",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [],
+      "late_units": [],
+      "covered_by_frozen_draw": [
+        "33-东-活动-0",
+        "33-东-活动-1",
+        "33-东-活动-10",
+        "33-东-活动-11",
+        "33-东-活动-12",
+        "33-东-活动-13",
+        "33-东-活动-14",
+        "33-东-活动-15",
+        "33-东-活动-16",
+        "33-东-活动-17",
+        "33-东-活动-18",
+        "33-东-活动-19",
+        "33-东-活动-2",
+        "33-东-活动-20",
+        "33-东-活动-21",
+        "33-东-活动-22",
+        "33-东-活动-23",
+        "33-东-活动-3",
+        "33-东-活动-4",
+        "33-东-活动-5",
+        "33-东-活动-6",
+        "33-东-活动-7",
+        "33-东-活动-8",
+        "33-东-活动-9"
+      ],
+      "uncovered_units": []
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "site": "东",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [],
+      "late_units": [],
+      "covered_by_frozen_draw": [
+        "33-东-走读-0",
+        "33-东-走读-1",
+        "33-东-走读-10",
+        "33-东-走读-11",
+        "33-东-走读-12",
+        "33-东-走读-13",
+        "33-东-走读-14",
+        "33-东-走读-15",
+        "33-东-走读-16",
+        "33-东-走读-17",
+        "33-东-走读-18",
+        "33-东-走读-19",
+        "33-东-走读-2",
+        "33-东-走读-20",
+        "33-东-走读-21",
+        "33-东-走读-22",
+        "33-东-走读-23",
+        "33-东-走读-3",
+        "33-东-走读-4",
+        "33-东-走读-5",
+        "33-东-走读-6",
+        "33-东-走读-7",
+        "33-东-走读-8",
+        "33-东-走读-9"
+      ],
+      "uncovered_units": []
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "site": "内",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [],
+      "late_units": [],
+      "covered_by_frozen_draw": [
+        "33-内-走读-0",
+        "33-内-走读-1",
+        "33-内-走读-10",
+        "33-内-走读-11",
+        "33-内-走读-12",
+        "33-内-走读-13",
+        "33-内-走读-14",
+        "33-内-走读-15",
+        "33-内-走读-16",
+        "33-内-走读-17",
+        "33-内-走读-18",
+        "33-内-走读-19",
+        "33-内-走读-2",
+        "33-内-走读-20",
+        "33-内-走读-21",
+        "33-内-走读-22",
+        "33-内-走读-23",
+        "33-内-走读-3",
+        "33-内-走读-4",
+        "33-内-走读-5",
+        "33-内-走读-6",
+        "33-内-走读-7",
+        "33-内-走读-8",
+        "33-内-走读-9"
+      ],
+      "uncovered_units": []
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "site": "南",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [],
+      "late_units": [],
+      "covered_by_frozen_draw": [
+        "33-南-活动-0",
+        "33-南-活动-1",
+        "33-南-活动-10",
+        "33-南-活动-11",
+        "33-南-活动-12",
+        "33-南-活动-13",
+        "33-南-活动-14",
+        "33-南-活动-15",
+        "33-南-活动-16",
+        "33-南-活动-17",
+        "33-南-活动-18",
+        "33-南-活动-19",
+        "33-南-活动-2",
+        "33-南-活动-20",
+        "33-南-活动-21",
+        "33-南-活动-22",
+        "33-南-活动-23",
+        "33-南-活动-3",
+        "33-南-活动-4",
+        "33-南-活动-5",
+        "33-南-活动-6",
+        "33-南-活动-7",
+        "33-南-活动-8",
+        "33-南-活动-9"
+      ],
+      "uncovered_units": []
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "site": "东",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [
+        [
+          "34-东-活动-17",
+          "34-东-活动-16"
+        ]
+      ],
+      "late_units": [
+        "34-东-活动-24"
+      ],
+      "covered_by_frozen_draw": [
+        "34-东-活动-0",
+        "34-东-活动-1",
+        "34-东-活动-10",
+        "34-东-活动-11",
+        "34-东-活动-12",
+        "34-东-活动-13",
+        "34-东-活动-14",
+        "34-东-活动-15",
+        "34-东-活动-16",
+        "34-东-活动-18",
+        "34-东-活动-19",
+        "34-东-活动-2",
+        "34-东-活动-20",
+        "34-东-活动-21",
+        "34-东-活动-22",
+        "34-东-活动-23",
+        "34-东-活动-3",
+        "34-东-活动-4",
+        "34-东-活动-5",
+        "34-东-活动-6",
+        "34-东-活动-7",
+        "34-东-活动-8",
+        "34-东-活动-9"
+      ],
+      "uncovered_units": [
+        "34-东-活动-24"
+      ]
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "site": "东",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [
+        [
+          "34-东-走读-17",
+          "34-东-走读-16"
+        ]
+      ],
+      "late_units": [
+        "34-东-走读-24"
+      ],
+      "covered_by_frozen_draw": [
+        "34-东-走读-0",
+        "34-东-走读-1",
+        "34-东-走读-10",
+        "34-东-走读-11",
+        "34-东-走读-12",
+        "34-东-走读-13",
+        "34-东-走读-14",
+        "34-东-走读-15",
+        "34-东-走读-16",
+        "34-东-走读-18",
+        "34-东-走读-19",
+        "34-东-走读-2",
+        "34-东-走读-20",
+        "34-东-走读-21",
+        "34-东-走读-22",
+        "34-东-走读-23",
+        "34-东-走读-3",
+        "34-东-走读-4",
+        "34-东-走读-5",
+        "34-东-走读-6",
+        "34-东-走读-7",
+        "34-东-走读-8",
+        "34-东-走读-9"
+      ],
+      "uncovered_units": [
+        "34-东-走读-24"
+      ]
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "site": "内",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [
+        [
+          "34-内-走读-17",
+          "34-内-走读-16"
+        ]
+      ],
+      "late_units": [
+        "34-内-走读-24"
+      ],
+      "covered_by_frozen_draw": [
+        "34-内-走读-0",
+        "34-内-走读-1",
+        "34-内-走读-10",
+        "34-内-走读-11",
+        "34-内-走读-12",
+        "34-内-走读-13",
+        "34-内-走读-14",
+        "34-内-走读-15",
+        "34-内-走读-16",
+        "34-内-走读-18",
+        "34-内-走读-19",
+        "34-内-走读-2",
+        "34-内-走读-20",
+        "34-内-走读-21",
+        "34-内-走读-22",
+        "34-内-走读-23",
+        "34-内-走读-3",
+        "34-内-走读-4",
+        "34-内-走读-5",
+        "34-内-走读-6",
+        "34-内-走读-7",
+        "34-内-走读-8",
+        "34-内-走读-9"
+      ],
+      "uncovered_units": [
+        "34-内-走读-24"
+      ]
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "site": "南",
+      "frozen_n": 24,
+      "draw_n": 7,
+      "current_n": 24,
+      "duplicates_merged": [
+        [
+          "34-南-活动-17",
+          "34-南-活动-16"
+        ]
+      ],
+      "late_units": [
+        "34-南-活动-24"
+      ],
+      "covered_by_frozen_draw": [
+        "34-南-活动-0",
+        "34-南-活动-1",
+        "34-南-活动-10",
+        "34-南-活动-11",
+        "34-南-活动-12",
+        "34-南-活动-13",
+        "34-南-活动-14",
+        "34-南-活动-15",
+        "34-南-活动-16",
+        "34-南-活动-18",
+        "34-南-活动-19",
+        "34-南-活动-2",
+        "34-南-活动-20",
+        "34-南-活动-21",
+        "34-南-活动-22",
+        "34-南-活动-23",
+        "34-南-活动-3",
+        "34-南-活动-4",
+        "34-南-活动-5",
+        "34-南-活动-6",
+        "34-南-活动-7",
+        "34-南-活动-8",
+        "34-南-活动-9"
+      ],
+      "uncovered_units": [
+        "34-南-活动-24"
+      ]
+    }
+  ],
+  "reuse_and_supplement": [
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "frozen_version": "34/东-活动",
+      "represents": "冻结版本 N=24，n=7；现行版本 N=24",
+      "duplicate_mapping": [
+        "34-东-活动-17→34-东-活动-16"
+      ],
+      "reusable_effective_segments": [
+        "34-东-活动-0",
+        "34-东-活动-12",
+        "34-东-活动-18",
+        "34-东-活动-2",
+        "34-东-活动-21",
+        "34-东-活动-22",
+        "34-东-活动-23"
+      ],
+      "reusable_count": 7,
+      "supplement_required_units": [
+        "34-东-活动-24"
+      ],
+      "frozen_probabilities_unchanged": true,
+      "note": "原抽取名单的 n/N 保持下达当时的值；重复行按物理段并入，后补单位在旧抽取下机会为 0，只能补抽"
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "frozen_version": "34/东-走读",
+      "represents": "冻结版本 N=24，n=7；现行版本 N=24",
+      "duplicate_mapping": [
+        "34-东-走读-17→34-东-走读-16"
+      ],
+      "reusable_effective_segments": [
+        "34-东-走读-10",
+        "34-东-走读-11",
+        "34-东-走读-13",
+        "34-东-走读-14",
+        "34-东-走读-15",
+        "34-东-走读-19",
+        "34-东-走读-6"
+      ],
+      "reusable_count": 7,
+      "supplement_required_units": [
+        "34-东-走读-24"
+      ],
+      "frozen_probabilities_unchanged": true,
+      "note": "原抽取名单的 n/N 保持下达当时的值；重复行按物理段并入，后补单位在旧抽取下机会为 0，只能补抽"
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "frozen_version": "34/内-走读",
+      "represents": "冻结版本 N=24，n=7；现行版本 N=24",
+      "duplicate_mapping": [
+        "34-内-走读-17→34-内-走读-16"
+      ],
+      "reusable_effective_segments": [
+        "34-内-走读-13",
+        "34-内-走读-18",
+        "34-内-走读-19",
+        "34-内-走读-22",
+        "34-内-走读-7",
+        "34-内-走读-8",
+        "34-内-走读-9"
+      ],
+      "reusable_count": 7,
+      "supplement_required_units": [
+        "34-内-走读-24"
+      ],
+      "frozen_probabilities_unchanged": true,
+      "note": "原抽取名单的 n/N 保持下达当时的值；重复行按物理段并入，后补单位在旧抽取下机会为 0，只能补抽"
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "frozen_version": "34/南-活动",
+      "represents": "冻结版本 N=24，n=7；现行版本 N=24",
+      "duplicate_mapping": [
+        "34-南-活动-17→34-南-活动-16"
+      ],
+      "reusable_effective_segments": [
+        "34-南-活动-15",
+        "34-南-活动-16",
+        "34-南-活动-20",
+        "34-南-活动-21",
+        "34-南-活动-3",
+        "34-南-活动-7"
+      ],
+      "reusable_count": 6,
+      "supplement_required_units": [
+        "34-南-活动-24"
+      ],
+      "frozen_probabilities_unchanged": true,
+      "note": "原抽取名单的 n/N 保持下达当时的值；重复行按物理段并入，后补单位在旧抽取下机会为 0，只能补抽"
+    }
+  ],
+  "stratum_estimates": [
+    {
+      "week": 32,
+      "stratum": "东-活动",
+      "site": "东",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 24,
+      "uncovered_n": 0,
+      "sampled_effective": 7,
+      "evidence_n": 2,
+      "verified_attended": 1,
+      "nonresponse_n": 5,
+      "pending_n": 0,
+      "point": 0.5,
+      "unknown_share": 0.7143,
+      "half_width_srs": 2.6569,
+      "half_width_cluster": 2.7339,
+      "half_width": 2.7339,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 1.0,
+      "notes": []
+    },
+    {
+      "week": 32,
+      "stratum": "东-走读",
+      "site": "东",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 24,
+      "uncovered_n": 0,
+      "sampled_effective": 7,
+      "evidence_n": 5,
+      "verified_attended": 3,
+      "nonresponse_n": 2,
+      "pending_n": 0,
+      "point": 0.6,
+      "unknown_share": 0.2857,
+      "half_width_srs": 0.4395,
+      "half_width_cluster": 0.3261,
+      "half_width": 0.4395,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 1.0,
+      "notes": [
+        "指定核查结果不进入随机分子分母"
+      ]
+    },
+    {
+      "week": 32,
+      "stratum": "内-走读",
+      "site": "内",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 24,
+      "uncovered_n": 0,
+      "sampled_effective": 7,
+      "evidence_n": 5,
+      "verified_attended": 3,
+      "nonresponse_n": 2,
+      "pending_n": 0,
+      "point": 0.6,
+      "unknown_share": 0.2857,
+      "half_width_srs": 0.4395,
+      "half_width_cluster": 0.3198,
+      "half_width": 0.4395,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 1.0,
+      "notes": []
+    },
+    {
+      "week": 32,
+      "stratum": "南-活动",
+      "site": "南",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 24,
+      "uncovered_n": 0,
+      "sampled_effective": 7,
+      "evidence_n": 3,
+      "verified_attended": 3,
+      "nonresponse_n": 4,
+      "pending_n": 0,
+      "point": 1.0,
+      "unknown_share": 0.5714,
+      "half_width_srs": 0.0,
+      "half_width_cluster": 0.0,
+      "half_width": 0.0,
+      "ci_low": 0.4286,
+      "ci_high": 1.0,
+      "interval_width": 0.5714,
+      "covered_fraction": 1.0,
+      "notes": []
+    },
+    {
+      "week": 33,
+      "stratum": "东-活动",
+      "site": "东",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 24,
+      "uncovered_n": 0,
+      "sampled_effective": 7,
+      "evidence_n": 2,
+      "verified_attended": 1,
+      "nonresponse_n": 5,
+      "pending_n": 0,
+      "point": 0.5,
+      "unknown_share": 0.7143,
+      "half_width_srs": 2.6569,
+      "half_width_cluster": 2.7339,
+      "half_width": 2.7339,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 1.0,
+      "notes": [
+        "指定核查结果不进入随机分子分母"
+      ]
+    },
+    {
+      "week": 33,
+      "stratum": "东-走读",
+      "site": "东",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 24,
+      "uncovered_n": 0,
+      "sampled_effective": 7,
+      "evidence_n": 5,
+      "verified_attended": 4,
+      "nonresponse_n": 2,
+      "pending_n": 0,
+      "point": 0.8,
+      "unknown_share": 0.2857,
+      "half_width_srs": 0.3588,
+      "half_width_cluster": 0.2611,
+      "half_width": 0.3588,
+      "ci_low": 0.2126,
+      "ci_high": 1.0,
+      "interval_width": 0.7874,
+      "covered_fraction": 1.0,
+      "notes": [
+        "指定核查结果不进入随机分子分母"
+      ]
+    },
+    {
+      "week": 33,
+      "stratum": "内-走读",
+      "site": "内",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 24,
+      "uncovered_n": 0,
+      "sampled_effective": 7,
+      "evidence_n": 6,
+      "verified_attended": 5,
+      "nonresponse_n": 1,
+      "pending_n": 0,
+      "point": 0.8333,
+      "unknown_share": 0.1429,
+      "half_width_srs": 0.2827,
+      "half_width_cluster": 0.2294,
+      "half_width": 0.2827,
+      "ci_low": 0.4316,
+      "ci_high": 1.0,
+      "interval_width": 0.5684,
+      "covered_fraction": 1.0,
+      "notes": [
+        "指定核查结果不进入随机分子分母"
+      ]
+    },
+    {
+      "week": 33,
+      "stratum": "南-活动",
+      "site": "南",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 24,
+      "uncovered_n": 0,
+      "sampled_effective": 7,
+      "evidence_n": 3,
+      "verified_attended": 0,
+      "nonresponse_n": 4,
+      "pending_n": 0,
+      "point": 0.0,
+      "unknown_share": 0.5714,
+      "half_width_srs": 0.0,
+      "half_width_cluster": 0.0,
+      "half_width": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.5714,
+      "interval_width": 0.5714,
+      "covered_fraction": 1.0,
+      "notes": [
+        "指定核查结果不进入随机分子分母"
+      ]
+    },
+    {
+      "week": 34,
+      "stratum": "东-活动",
+      "site": "东",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 23,
+      "uncovered_n": 1,
+      "sampled_effective": 7,
+      "evidence_n": 4,
+      "verified_attended": 4,
+      "nonresponse_n": 3,
+      "pending_n": 0,
+      "point": 1.0,
+      "unknown_share": 0.4286,
+      "half_width_srs": 0.0,
+      "half_width_cluster": 0.0,
+      "half_width": 0.0,
+      "ci_low": 0.5714,
+      "ci_high": 1.0,
+      "interval_width": 0.4286,
+      "covered_fraction": 0.9583,
+      "notes": [
+        "1 个现行单位（后补）在冻结抽取下抽样机会为 0，随机估计不覆盖"
+      ]
+    },
+    {
+      "week": 34,
+      "stratum": "东-走读",
+      "site": "东",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 23,
+      "uncovered_n": 1,
+      "sampled_effective": 7,
+      "evidence_n": 4,
+      "verified_attended": 2,
+      "nonresponse_n": 3,
+      "pending_n": 0,
+      "point": 0.5,
+      "unknown_share": 0.4286,
+      "half_width_srs": 0.5718,
+      "half_width_cluster": 0.4804,
+      "half_width": 0.5718,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 0.9583,
+      "notes": [
+        "1 个现行单位（后补）在冻结抽取下抽样机会为 0，随机估计不覆盖",
+        "指定核查结果不进入随机分子分母"
+      ]
+    },
+    {
+      "week": 34,
+      "stratum": "内-走读",
+      "site": "内",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 23,
+      "uncovered_n": 1,
+      "sampled_effective": 7,
+      "evidence_n": 3,
+      "verified_attended": 2,
+      "nonresponse_n": 4,
+      "pending_n": 0,
+      "point": 0.6667,
+      "unknown_share": 0.5714,
+      "half_width_srs": 0.8192,
+      "half_width_cluster": 0.7695,
+      "half_width": 0.8192,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 0.9583,
+      "notes": [
+        "1 个现行单位（后补）在冻结抽取下抽样机会为 0，随机估计不覆盖",
+        "指定核查结果不进入随机分子分母"
+      ]
+    },
+    {
+      "week": 34,
+      "stratum": "南-活动",
+      "site": "南",
+      "frozen_n": 24,
+      "current_n": 24,
+      "covered_n": 23,
+      "uncovered_n": 1,
+      "sampled_effective": 6,
+      "evidence_n": 5,
+      "verified_attended": 5,
+      "nonresponse_n": 1,
+      "pending_n": 0,
+      "point": 1.0,
+      "unknown_share": 0.1667,
+      "half_width_srs": 0.0,
+      "half_width_cluster": 0.0,
+      "half_width": 0.0,
+      "ci_low": 0.8333,
+      "ci_high": 1.0,
+      "interval_width": 0.1667,
+      "covered_fraction": 0.9583,
+      "notes": [
+        "1 个现行单位（后补）在冻结抽取下抽样机会为 0，随机估计不覆盖",
+        "指定核查结果不进入随机分子分母"
+      ]
+    }
+  ],
+  "aggregates": {
+    "总体": {
+      "name": "总体",
+      "level": "overall",
+      "weeks": [
+        32,
+        33,
+        34
+      ],
+      "strata": [
+        "东-活动",
+        "东-走读",
+        "内-走读",
+        "南-活动"
+      ],
+      "current_n": 288,
+      "covered_n": 284,
+      "uncovered_n": 4,
+      "evidence_n": 47,
+      "verified_attended": 33,
+      "point": 0.6649,
+      "unknown_share": 0.431,
+      "ci_low": 0.0442,
+      "ci_high": 1.0,
+      "interval_width": 0.9558,
+      "covered_fraction": 0.9861,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 4 个（覆盖率 98.6%）",
+        "区间宽度 0.956 超过上限 0.28"
+      ],
+      "release_status": "暂不能采用"
+    },
+    "组:活动": {
+      "name": "活动",
+      "level": "group",
+      "weeks": [
+        32,
+        33,
+        34
+      ],
+      "strata": [
+        "东-活动",
+        "南-活动"
+      ],
+      "current_n": 144,
+      "covered_n": 142,
+      "uncovered_n": 2,
+      "evidence_n": 19,
+      "verified_attended": 14,
+      "point": 0.662,
+      "unknown_share": 0.531,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 0.9861,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 2 个（覆盖率 98.6%）",
+        "区间宽度 1.000 超过上限 0.28"
+      ],
+      "release_status": "暂不能采用"
+    },
+    "组:走读": {
+      "name": "走读",
+      "level": "group",
+      "weeks": [
+        32,
+        33,
+        34
+      ],
+      "strata": [
+        "东-走读",
+        "内-走读"
+      ],
+      "current_n": 144,
+      "covered_n": 142,
+      "uncovered_n": 2,
+      "evidence_n": 28,
+      "verified_attended": 19,
+      "point": 0.6678,
+      "unknown_share": 0.331,
+      "ci_low": 0.239,
+      "ci_high": 0.9856,
+      "interval_width": 0.7466,
+      "covered_fraction": 0.9861,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 2 个（覆盖率 98.6%）",
+        "区间宽度 0.747 超过上限 0.28"
+      ],
+      "release_status": "暂不能采用"
+    },
+    "周32:总体": {
+      "name": "第32周总体",
+      "level": "week",
+      "weeks": [
+        32
+      ],
+      "strata": [
+        "东-活动",
+        "东-走读",
+        "内-走读",
+        "南-活动"
+      ],
+      "current_n": 96,
+      "covered_n": 96,
+      "uncovered_n": 0,
+      "evidence_n": 15,
+      "verified_attended": 10,
+      "point": 0.675,
+      "unknown_share": 0.4643,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 1.0,
+      "blocking_reasons": [],
+      "release_status": "历史已发布（不重新编辑）"
+    },
+    "周32:活动": {
+      "name": "第32周-活动",
+      "level": "week_group",
+      "weeks": [
+        32
+      ],
+      "strata": [
+        "东-活动",
+        "南-活动"
+      ],
+      "current_n": 48,
+      "covered_n": 48,
+      "uncovered_n": 0,
+      "evidence_n": 5,
+      "verified_attended": 4,
+      "point": 0.75,
+      "unknown_share": 0.6429,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 1.0,
+      "blocking_reasons": [],
+      "release_status": "历史已发布（不重新编辑）"
+    },
+    "周32:走读": {
+      "name": "第32周-走读",
+      "level": "week_group",
+      "weeks": [
+        32
+      ],
+      "strata": [
+        "东-走读",
+        "内-走读"
+      ],
+      "current_n": 48,
+      "covered_n": 48,
+      "uncovered_n": 0,
+      "evidence_n": 10,
+      "verified_attended": 6,
+      "point": 0.6,
+      "unknown_share": 0.2857,
+      "ci_low": 0.1178,
+      "ci_high": 1.0,
+      "interval_width": 0.8822,
+      "covered_fraction": 1.0,
+      "blocking_reasons": [],
+      "release_status": "历史已发布（不重新编辑）"
+    },
+    "周33:总体": {
+      "name": "第33周总体",
+      "level": "week",
+      "weeks": [
+        33
+      ],
+      "strata": [
+        "东-活动",
+        "东-走读",
+        "内-走读",
+        "南-活动"
+      ],
+      "current_n": 96,
+      "covered_n": 96,
+      "uncovered_n": 0,
+      "evidence_n": 16,
+      "verified_attended": 10,
+      "point": 0.5333,
+      "unknown_share": 0.4286,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 1.0,
+      "blocking_reasons": [],
+      "release_status": "历史已发布（不重新编辑）"
+    },
+    "周33:活动": {
+      "name": "第33周-活动",
+      "level": "week_group",
+      "weeks": [
+        33
+      ],
+      "strata": [
+        "东-活动",
+        "南-活动"
+      ],
+      "current_n": 48,
+      "covered_n": 48,
+      "uncovered_n": 0,
+      "evidence_n": 5,
+      "verified_attended": 1,
+      "point": 0.25,
+      "unknown_share": 0.6429,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 1.0,
+      "blocking_reasons": [],
+      "release_status": "历史已发布（不重新编辑）"
+    },
+    "周33:走读": {
+      "name": "第33周-走读",
+      "level": "week_group",
+      "weeks": [
+        33
+      ],
+      "strata": [
+        "东-走读",
+        "内-走读"
+      ],
+      "current_n": 48,
+      "covered_n": 48,
+      "uncovered_n": 0,
+      "evidence_n": 11,
+      "verified_attended": 9,
+      "point": 0.8167,
+      "unknown_share": 0.2143,
+      "ci_low": 0.4133,
+      "ci_high": 1.0,
+      "interval_width": 0.5867,
+      "covered_fraction": 1.0,
+      "blocking_reasons": [],
+      "release_status": "历史已发布（不重新编辑）"
+    },
+    "周34:总体": {
+      "name": "第34周总体",
+      "level": "week",
+      "weeks": [
+        34
+      ],
+      "strata": [
+        "东-活动",
+        "东-走读",
+        "内-走读",
+        "南-活动"
+      ],
+      "current_n": 96,
+      "covered_n": 92,
+      "uncovered_n": 4,
+      "evidence_n": 16,
+      "verified_attended": 13,
+      "point": 0.7917,
+      "unknown_share": 0.3988,
+      "ci_low": 0.2262,
+      "ci_high": 1.0,
+      "interval_width": 0.7738,
+      "covered_fraction": 0.9583,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 4 个（覆盖率 95.8%）",
+        "区间宽度 0.774 超过上限 0.28"
+      ],
+      "release_status": "暂不能采用"
+    },
+    "周34:活动": {
+      "name": "第34周-活动",
+      "level": "week_group",
+      "weeks": [
+        34
+      ],
+      "strata": [
+        "东-活动",
+        "南-活动"
+      ],
+      "current_n": 48,
+      "covered_n": 46,
+      "uncovered_n": 2,
+      "evidence_n": 9,
+      "verified_attended": 9,
+      "point": 1.0,
+      "unknown_share": 0.2976,
+      "ci_low": 0.7024,
+      "ci_high": 1.0,
+      "interval_width": 0.2976,
+      "covered_fraction": 0.9583,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 2 个（覆盖率 95.8%）",
+        "区间宽度 0.298 超过上限 0.28"
+      ],
+      "release_status": "暂不能采用"
+    },
+    "周34:走读": {
+      "name": "第34周-走读",
+      "level": "week_group",
+      "weeks": [
+        34
+      ],
+      "strata": [
+        "东-走读",
+        "内-走读"
+      ],
+      "current_n": 48,
+      "covered_n": 46,
+      "uncovered_n": 2,
+      "evidence_n": 7,
+      "verified_attended": 4,
+      "point": 0.5833,
+      "unknown_share": 0.5,
+      "ci_low": 0.0,
+      "ci_high": 1.0,
+      "interval_width": 1.0,
+      "covered_fraction": 0.9583,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 2 个（覆盖率 95.8%）",
+        "区间宽度 1.000 超过上限 0.28"
+      ],
+      "release_status": "暂不能采用"
+    }
+  },
+  "supplement_schedule": [
+    {
+      "site": "东",
+      "total_slots": 5,
+      "reserved_for_appointments": 4,
+      "residual_slots": 1,
+      "requested": [
+        "34-东-活动-24",
+        "34-东-走读-24"
+      ],
+      "scheduled": [
+        "34-东-活动-24"
+      ],
+      "unscheduled": [
+        "34-东-走读-24"
+      ],
+      "deferred_appointments": []
+    },
+    {
+      "site": "内",
+      "total_slots": 1,
+      "reserved_for_appointments": 1,
+      "residual_slots": 0,
+      "requested": [
+        "34-内-走读-24"
+      ],
+      "scheduled": [],
+      "unscheduled": [
+        "34-内-走读-24"
+      ],
+      "deferred_appointments": [
+        "34-内-走读-23"
+      ]
+    },
+    {
+      "site": "南",
+      "total_slots": 2,
+      "reserved_for_appointments": 2,
+      "residual_slots": 0,
+      "requested": [
+        "34-南-活动-24"
+      ],
+      "scheduled": [],
+      "unscheduled": [
+        "34-南-活动-24"
+      ],
+      "deferred_appointments": []
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "补抽完成（假设补抽单位均到场）",
+      "description": "第 35 周排程内 1 个补抽单位取得回执；旧冻结名单概率不变，仅新增独立补抽 freeze",
+      "newly_resolved": [
+        "34-东-活动-24"
+      ],
+      "extra_draws": [
+        "34-东-活动-24"
+      ],
+      "aggregates": {
+        "总体": {
+          "name": "总体",
+          "level": "overall",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 288,
+          "covered_n": 285,
+          "uncovered_n": 3,
+          "evidence_n": 48,
+          "verified_attended": 34,
+          "point": 0.6661,
+          "unknown_share": 0.4296,
+          "ci_low": 0.047,
+          "ci_high": 1.0,
+          "interval_width": 0.953,
+          "covered_fraction": 0.9896,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 3 个（覆盖率 99.0%）",
+            "区间宽度 0.953 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "组:活动": {
+          "name": "活动",
+          "level": "group",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 144,
+          "covered_n": 143,
+          "uncovered_n": 1,
+          "evidence_n": 20,
+          "verified_attended": 15,
+          "point": 0.6643,
+          "unknown_share": 0.5274,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 0.9931,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 1 个（覆盖率 99.3%）",
+            "区间宽度 1.000 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "组:走读": {
+          "name": "走读",
+          "level": "group",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 144,
+          "covered_n": 142,
+          "uncovered_n": 2,
+          "evidence_n": 28,
+          "verified_attended": 19,
+          "point": 0.6678,
+          "unknown_share": 0.331,
+          "ci_low": 0.239,
+          "ci_high": 0.9856,
+          "interval_width": 0.7466,
+          "covered_fraction": 0.9861,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 2 个（覆盖率 98.6%）",
+            "区间宽度 0.747 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周32:总体": {
+          "name": "第32周总体",
+          "level": "week",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 15,
+          "verified_attended": 10,
+          "point": 0.675,
+          "unknown_share": 0.4643,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周32:活动": {
+          "name": "第32周-活动",
+          "level": "week_group",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 5,
+          "verified_attended": 4,
+          "point": 0.75,
+          "unknown_share": 0.6429,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周32:走读": {
+          "name": "第32周-走读",
+          "level": "week_group",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 10,
+          "verified_attended": 6,
+          "point": 0.6,
+          "unknown_share": 0.2857,
+          "ci_low": 0.1178,
+          "ci_high": 1.0,
+          "interval_width": 0.8822,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:总体": {
+          "name": "第33周总体",
+          "level": "week",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 16,
+          "verified_attended": 10,
+          "point": 0.5333,
+          "unknown_share": 0.4286,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:活动": {
+          "name": "第33周-活动",
+          "level": "week_group",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 5,
+          "verified_attended": 1,
+          "point": 0.25,
+          "unknown_share": 0.6429,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:走读": {
+          "name": "第33周-走读",
+          "level": "week_group",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 11,
+          "verified_attended": 9,
+          "point": 0.8167,
+          "unknown_share": 0.2143,
+          "ci_low": 0.4133,
+          "ci_high": 1.0,
+          "interval_width": 0.5867,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周34:总体": {
+          "name": "第34周总体",
+          "level": "week",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 93,
+          "uncovered_n": 3,
+          "evidence_n": 17,
+          "verified_attended": 14,
+          "point": 0.7939,
+          "unknown_share": 0.3947,
+          "ci_low": 0.2335,
+          "ci_high": 1.0,
+          "interval_width": 0.7665,
+          "covered_fraction": 0.9688,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 3 个（覆盖率 96.9%）",
+            "区间宽度 0.767 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周34:活动": {
+          "name": "第34周-活动",
+          "level": "week_group",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 47,
+          "uncovered_n": 1,
+          "evidence_n": 10,
+          "verified_attended": 10,
+          "point": 1.0,
+          "unknown_share": 0.2917,
+          "ci_low": 0.7083,
+          "ci_high": 1.0,
+          "interval_width": 0.2917,
+          "covered_fraction": 0.9792,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 1 个（覆盖率 97.9%）",
+            "区间宽度 0.292 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周34:走读": {
+          "name": "第34周-走读",
+          "level": "week_group",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 46,
+          "uncovered_n": 2,
+          "evidence_n": 7,
+          "verified_attended": 4,
+          "point": 0.5833,
+          "unknown_share": 0.5,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 0.9583,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 2 个（覆盖率 95.8%）",
+            "区间宽度 1.000 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        }
+      }
+    },
+    {
+      "name": "补抽完成（假设补抽单位均未到场）",
+      "description": "第 35 周排程内 1 个补抽单位取得回执；旧冻结名单概率不变，仅新增独立补抽 freeze",
+      "newly_resolved": [
+        "34-东-活动-24"
+      ],
+      "extra_draws": [
+        "34-东-活动-24"
+      ],
+      "aggregates": {
+        "总体": {
+          "name": "总体",
+          "level": "overall",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 288,
+          "covered_n": 285,
+          "uncovered_n": 3,
+          "evidence_n": 48,
+          "verified_attended": 33,
+          "point": 0.6604,
+          "unknown_share": 0.4296,
+          "ci_low": 0.0429,
+          "ci_high": 1.0,
+          "interval_width": 0.9571,
+          "covered_fraction": 0.9896,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 3 个（覆盖率 99.0%）",
+            "区间宽度 0.957 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "组:活动": {
+          "name": "活动",
+          "level": "group",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 144,
+          "covered_n": 143,
+          "uncovered_n": 1,
+          "evidence_n": 20,
+          "verified_attended": 14,
+          "point": 0.6529,
+          "unknown_share": 0.5274,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 0.9931,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 1 个（覆盖率 99.3%）",
+            "区间宽度 1.000 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "组:走读": {
+          "name": "走读",
+          "level": "group",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 144,
+          "covered_n": 142,
+          "uncovered_n": 2,
+          "evidence_n": 28,
+          "verified_attended": 19,
+          "point": 0.6678,
+          "unknown_share": 0.331,
+          "ci_low": 0.239,
+          "ci_high": 0.9856,
+          "interval_width": 0.7466,
+          "covered_fraction": 0.9861,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 2 个（覆盖率 98.6%）",
+            "区间宽度 0.747 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周32:总体": {
+          "name": "第32周总体",
+          "level": "week",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 15,
+          "verified_attended": 10,
+          "point": 0.675,
+          "unknown_share": 0.4643,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周32:活动": {
+          "name": "第32周-活动",
+          "level": "week_group",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 5,
+          "verified_attended": 4,
+          "point": 0.75,
+          "unknown_share": 0.6429,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周32:走读": {
+          "name": "第32周-走读",
+          "level": "week_group",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 10,
+          "verified_attended": 6,
+          "point": 0.6,
+          "unknown_share": 0.2857,
+          "ci_low": 0.1178,
+          "ci_high": 1.0,
+          "interval_width": 0.8822,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:总体": {
+          "name": "第33周总体",
+          "level": "week",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 16,
+          "verified_attended": 10,
+          "point": 0.5333,
+          "unknown_share": 0.4286,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:活动": {
+          "name": "第33周-活动",
+          "level": "week_group",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 5,
+          "verified_attended": 1,
+          "point": 0.25,
+          "unknown_share": 0.6429,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:走读": {
+          "name": "第33周-走读",
+          "level": "week_group",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 11,
+          "verified_attended": 9,
+          "point": 0.8167,
+          "unknown_share": 0.2143,
+          "ci_low": 0.4133,
+          "ci_high": 1.0,
+          "interval_width": 0.5867,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周34:总体": {
+          "name": "第34周总体",
+          "level": "week",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 93,
+          "uncovered_n": 3,
+          "evidence_n": 17,
+          "verified_attended": 13,
+          "point": 0.7764,
+          "unknown_share": 0.3947,
+          "ci_low": 0.2119,
+          "ci_high": 1.0,
+          "interval_width": 0.7881,
+          "covered_fraction": 0.9688,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 3 个（覆盖率 96.9%）",
+            "区间宽度 0.788 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周34:活动": {
+          "name": "第34周-活动",
+          "level": "week_group",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 47,
+          "uncovered_n": 1,
+          "evidence_n": 10,
+          "verified_attended": 9,
+          "point": 0.9653,
+          "unknown_share": 0.2917,
+          "ci_low": 0.5368,
+          "ci_high": 1.0,
+          "interval_width": 0.4632,
+          "covered_fraction": 0.9792,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 1 个（覆盖率 97.9%）",
+            "区间宽度 0.463 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周34:走读": {
+          "name": "第34周-走读",
+          "level": "week_group",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 46,
+          "uncovered_n": 2,
+          "evidence_n": 7,
+          "verified_attended": 4,
+          "point": 0.5833,
+          "unknown_share": 0.5,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 0.9583,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 2 个（覆盖率 95.8%）",
+            "区间宽度 1.000 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        }
+      }
+    },
+    {
+      "name": "理想情景：全部后补缺口均补齐（假设到场）",
+      "description": "不受当前时段约束，4 个后补单位全部补抽到；其中 3 个在现有时段下排不上，用于说明还需追加的访员时段",
+      "newly_resolved": [
+        "34-东-活动-24",
+        "34-东-走读-24",
+        "34-内-走读-24",
+        "34-南-活动-24"
+      ],
+      "extra_draws": [
+        "34-东-活动-24",
+        "34-东-走读-24",
+        "34-内-走读-24",
+        "34-南-活动-24"
+      ],
+      "aggregates": {
+        "总体": {
+          "name": "总体",
+          "level": "overall",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 288,
+          "covered_n": 288,
+          "uncovered_n": 0,
+          "evidence_n": 51,
+          "verified_attended": 37,
+          "point": 0.672,
+          "unknown_share": 0.4251,
+          "ci_low": 0.0563,
+          "ci_high": 1.0,
+          "interval_width": 0.9437,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [
+            "区间宽度 0.944 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "组:活动": {
+          "name": "活动",
+          "level": "group",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 144,
+          "covered_n": 144,
+          "uncovered_n": 0,
+          "evidence_n": 21,
+          "verified_attended": 16,
+          "point": 0.6667,
+          "unknown_share": 0.5236,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [
+            "区间宽度 1.000 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "组:走读": {
+          "name": "走读",
+          "level": "group",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 144,
+          "covered_n": 144,
+          "uncovered_n": 0,
+          "evidence_n": 30,
+          "verified_attended": 21,
+          "point": 0.6773,
+          "unknown_share": 0.3267,
+          "ci_low": 0.2479,
+          "ci_high": 0.9908,
+          "interval_width": 0.7429,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [
+            "区间宽度 0.743 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周32:总体": {
+          "name": "第32周总体",
+          "level": "week",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 15,
+          "verified_attended": 10,
+          "point": 0.675,
+          "unknown_share": 0.4643,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周32:活动": {
+          "name": "第32周-活动",
+          "level": "week_group",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 5,
+          "verified_attended": 4,
+          "point": 0.75,
+          "unknown_share": 0.6429,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周32:走读": {
+          "name": "第32周-走读",
+          "level": "week_group",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 10,
+          "verified_attended": 6,
+          "point": 0.6,
+          "unknown_share": 0.2857,
+          "ci_low": 0.1178,
+          "ci_high": 1.0,
+          "interval_width": 0.8822,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:总体": {
+          "name": "第33周总体",
+          "level": "week",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 16,
+          "verified_attended": 10,
+          "point": 0.5333,
+          "unknown_share": 0.4286,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:活动": {
+          "name": "第33周-活动",
+          "level": "week_group",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 5,
+          "verified_attended": 1,
+          "point": 0.25,
+          "unknown_share": 0.6429,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:走读": {
+          "name": "第33周-走读",
+          "level": "week_group",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 11,
+          "verified_attended": 9,
+          "point": 0.8167,
+          "unknown_share": 0.2143,
+          "ci_low": 0.4133,
+          "ci_high": 1.0,
+          "interval_width": 0.5867,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周34:总体": {
+          "name": "第34周总体",
+          "level": "week",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 20,
+          "verified_attended": 17,
+          "point": 0.8075,
+          "unknown_share": 0.3826,
+          "ci_low": 0.2531,
+          "ci_high": 1.0,
+          "interval_width": 0.7469,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [
+            "区间宽度 0.747 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周34:活动": {
+          "name": "第34周-活动",
+          "level": "week_group",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 11,
+          "verified_attended": 11,
+          "point": 1.0,
+          "unknown_share": 0.2852,
+          "ci_low": 0.7148,
+          "ci_high": 1.0,
+          "interval_width": 0.2852,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [
+            "区间宽度 0.285 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周34:走读": {
+          "name": "第34周-走读",
+          "level": "week_group",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 9,
+          "verified_attended": 6,
+          "point": 0.6151,
+          "unknown_share": 0.48,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [
+            "区间宽度 1.000 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        }
+      }
+    },
+    {
+      "name": "追加时段演示：东-活动补约访+补抽（假设到场）",
+      "description": "假设为东站点追加访员时段：周34东-活动的无应答随机单位补约访（π 不变，未知份额转证据）并补抽其后补单位；用于说明宽度障碍与覆盖障碍分别由哪类核查解除",
+      "newly_resolved": [
+        "34-东-活动-18",
+        "34-东-活动-2",
+        "34-东-活动-23",
+        "34-东-活动-24"
+      ],
+      "extra_draws": [
+        "34-东-活动-24"
+      ],
+      "aggregates": {
+        "总体": {
+          "name": "总体",
+          "level": "overall",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 288,
+          "covered_n": 285,
+          "uncovered_n": 3,
+          "evidence_n": 51,
+          "verified_attended": 37,
+          "point": 0.6661,
+          "unknown_share": 0.3949,
+          "ci_low": 0.0701,
+          "ci_high": 1.0,
+          "interval_width": 0.9299,
+          "covered_fraction": 0.9896,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 3 个（覆盖率 99.0%）",
+            "区间宽度 0.930 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "组:活动": {
+          "name": "活动",
+          "level": "group",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 144,
+          "covered_n": 143,
+          "uncovered_n": 1,
+          "evidence_n": 23,
+          "verified_attended": 18,
+          "point": 0.6643,
+          "unknown_share": 0.4584,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 0.9931,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 1 个（覆盖率 99.3%）",
+            "区间宽度 1.000 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "组:走读": {
+          "name": "走读",
+          "level": "group",
+          "weeks": [
+            32,
+            33,
+            34
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 144,
+          "covered_n": 142,
+          "uncovered_n": 2,
+          "evidence_n": 28,
+          "verified_attended": 19,
+          "point": 0.6678,
+          "unknown_share": 0.331,
+          "ci_low": 0.239,
+          "ci_high": 0.9856,
+          "interval_width": 0.7466,
+          "covered_fraction": 0.9861,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 2 个（覆盖率 98.6%）",
+            "区间宽度 0.747 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周32:总体": {
+          "name": "第32周总体",
+          "level": "week",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 15,
+          "verified_attended": 10,
+          "point": 0.675,
+          "unknown_share": 0.4643,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周32:活动": {
+          "name": "第32周-活动",
+          "level": "week_group",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 5,
+          "verified_attended": 4,
+          "point": 0.75,
+          "unknown_share": 0.6429,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周32:走读": {
+          "name": "第32周-走读",
+          "level": "week_group",
+          "weeks": [
+            32
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 10,
+          "verified_attended": 6,
+          "point": 0.6,
+          "unknown_share": 0.2857,
+          "ci_low": 0.1178,
+          "ci_high": 1.0,
+          "interval_width": 0.8822,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:总体": {
+          "name": "第33周总体",
+          "level": "week",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 96,
+          "uncovered_n": 0,
+          "evidence_n": 16,
+          "verified_attended": 10,
+          "point": 0.5333,
+          "unknown_share": 0.4286,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:活动": {
+          "name": "第33周-活动",
+          "level": "week_group",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 5,
+          "verified_attended": 1,
+          "point": 0.25,
+          "unknown_share": 0.6429,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周33:走读": {
+          "name": "第33周-走读",
+          "level": "week_group",
+          "weeks": [
+            33
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 48,
+          "uncovered_n": 0,
+          "evidence_n": 11,
+          "verified_attended": 9,
+          "point": 0.8167,
+          "unknown_share": 0.2143,
+          "ci_low": 0.4133,
+          "ci_high": 1.0,
+          "interval_width": 0.5867,
+          "covered_fraction": 1.0,
+          "blocking_reasons": [],
+          "release_status": "历史已发布（不重新编辑）"
+        },
+        "周34:总体": {
+          "name": "第34周总体",
+          "level": "week",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "东-走读",
+            "内-走读",
+            "南-活动"
+          ],
+          "current_n": 96,
+          "covered_n": 93,
+          "uncovered_n": 3,
+          "evidence_n": 20,
+          "verified_attended": 17,
+          "point": 0.7939,
+          "unknown_share": 0.2885,
+          "ci_low": 0.3178,
+          "ci_high": 1.0,
+          "interval_width": 0.6822,
+          "covered_fraction": 0.9688,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 3 个（覆盖率 96.9%）",
+            "区间宽度 0.682 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周34:活动": {
+          "name": "第34周-活动",
+          "level": "week_group",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-活动",
+            "南-活动"
+          ],
+          "current_n": 48,
+          "covered_n": 47,
+          "uncovered_n": 1,
+          "evidence_n": 13,
+          "verified_attended": 13,
+          "point": 1.0,
+          "unknown_share": 0.0816,
+          "ci_low": 0.9184,
+          "ci_high": 1.0,
+          "interval_width": 0.0816,
+          "covered_fraction": 0.9792,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 1 个（覆盖率 97.9%）"
+          ],
+          "release_status": "暂不能采用"
+        },
+        "周34:走读": {
+          "name": "第34周-走读",
+          "level": "week_group",
+          "weeks": [
+            34
+          ],
+          "strata": [
+            "东-走读",
+            "内-走读"
+          ],
+          "current_n": 48,
+          "covered_n": 46,
+          "uncovered_n": 2,
+          "evidence_n": 7,
+          "verified_attended": 4,
+          "point": 0.5833,
+          "unknown_share": 0.5,
+          "ci_low": 0.0,
+          "ci_high": 1.0,
+          "interval_width": 1.0,
+          "covered_fraction": 0.9583,
+          "blocking_reasons": [
+            "现行总体存在未覆盖单位 2 个（覆盖率 95.8%）",
+            "区间宽度 1.000 超过上限 0.28"
+          ],
+          "release_status": "暂不能采用"
+        }
+      }
+    }
+  ],
+  "required_effort": [
+    {
+      "aggregate": "总体",
+      "name": "总体",
+      "level": "overall",
+      "uncovered_to_cover": 4,
+      "verified_shortfall": 0,
+      "unknown_share": 0.431,
+      "width_gap": 0.6758,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 4 个（覆盖率 98.6%）",
+        "区间宽度 0.956 超过上限 0.28"
+      ]
+    },
+    {
+      "aggregate": "组:活动",
+      "name": "活动",
+      "level": "group",
+      "uncovered_to_cover": 2,
+      "verified_shortfall": 0,
+      "unknown_share": 0.531,
+      "width_gap": 0.72,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 2 个（覆盖率 98.6%）",
+        "区间宽度 1.000 超过上限 0.28"
+      ]
+    },
+    {
+      "aggregate": "组:走读",
+      "name": "走读",
+      "level": "group",
+      "uncovered_to_cover": 2,
+      "verified_shortfall": 0,
+      "unknown_share": 0.331,
+      "width_gap": 0.4666,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 2 个（覆盖率 98.6%）",
+        "区间宽度 0.747 超过上限 0.28"
+      ]
+    },
+    {
+      "aggregate": "周34:总体",
+      "name": "第34周总体",
+      "level": "week",
+      "uncovered_to_cover": 4,
+      "verified_shortfall": 0,
+      "unknown_share": 0.3988,
+      "width_gap": 0.4938,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 4 个（覆盖率 95.8%）",
+        "区间宽度 0.774 超过上限 0.28"
+      ]
+    },
+    {
+      "aggregate": "周34:活动",
+      "name": "第34周-活动",
+      "level": "week_group",
+      "uncovered_to_cover": 2,
+      "verified_shortfall": 0,
+      "unknown_share": 0.2976,
+      "width_gap": 0.0176,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 2 个（覆盖率 95.8%）",
+        "区间宽度 0.298 超过上限 0.28"
+      ]
+    },
+    {
+      "aggregate": "周34:走读",
+      "name": "第34周-走读",
+      "level": "week_group",
+      "uncovered_to_cover": 2,
+      "verified_shortfall": 0,
+      "unknown_share": 0.5,
+      "width_gap": 0.72,
+      "blocking_reasons": [
+        "现行总体存在未覆盖单位 2 个（覆盖率 95.8%）",
+        "区间宽度 1.000 超过上限 0.28"
+      ]
+    }
+  ],
+  "coverage_gap_by_site": {
+    "东": {
+      "total_slots": 5,
+      "reserved_appointments": 4,
+      "residual_slots": 1,
+      "deferred_appointments": [],
+      "unscheduled_units": [
+        "34-东-走读-24"
+      ],
+      "uncovered": [
+        "34-东-活动-24",
+        "34-东-走读-24"
+      ]
+    },
+    "内": {
+      "total_slots": 1,
+      "reserved_appointments": 1,
+      "residual_slots": 0,
+      "deferred_appointments": [
+        "34-内-走读-23"
+      ],
+      "unscheduled_units": [
+        "34-内-走读-24"
+      ],
+      "uncovered": [
+        "34-内-走读-24"
+      ]
+    },
+    "南": {
+      "total_slots": 2,
+      "reserved_appointments": 2,
+      "residual_slots": 0,
+      "deferred_appointments": [],
+      "unscheduled_units": [
+        "34-南-活动-24"
+      ],
+      "uncovered": [
+        "34-南-活动-24"
+      ]
+    }
+  },
+  "nonresponse_followup_units": [
+    {
+      "unit": "32-东-活动-4",
+      "week": 32,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-东-活动-4"
+    },
+    {
+      "unit": "32-东-活动-23",
+      "week": 32,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-东-活动-23"
+    },
+    {
+      "unit": "32-东-活动-10",
+      "week": 32,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "失联",
+      "effective_segment": "32-东-活动-10"
+    },
+    {
+      "unit": "32-东-活动-9",
+      "week": 32,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-东-活动-9"
+    },
+    {
+      "unit": "32-东-活动-5",
+      "week": 32,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "失联",
+      "effective_segment": "32-东-活动-5"
+    },
+    {
+      "unit": "32-东-走读-17",
+      "week": 32,
+      "stratum": "东-走读",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-东-走读-17"
+    },
+    {
+      "unit": "32-东-走读-19",
+      "week": 32,
+      "stratum": "东-走读",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-东-走读-19"
+    },
+    {
+      "unit": "33-东-活动-13",
+      "week": 33,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "33-东-活动-13"
+    },
+    {
+      "unit": "33-东-活动-14",
+      "week": 33,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "33-东-活动-14"
+    },
+    {
+      "unit": "33-东-活动-7",
+      "week": 33,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "33-东-活动-7"
+    },
+    {
+      "unit": "33-东-活动-5",
+      "week": 33,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "33-东-活动-5"
+    },
+    {
+      "unit": "33-东-活动-8",
+      "week": 33,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "失联",
+      "effective_segment": "33-东-活动-8"
+    },
+    {
+      "unit": "33-东-走读-10",
+      "week": 33,
+      "stratum": "东-走读",
+      "site": "东",
+      "outcome": "失联",
+      "effective_segment": "33-东-走读-10"
+    },
+    {
+      "unit": "33-东-走读-21",
+      "week": 33,
+      "stratum": "东-走读",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "33-东-走读-21"
+    },
+    {
+      "unit": "34-东-活动-23",
+      "week": 34,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "失联",
+      "effective_segment": "34-东-活动-23"
+    },
+    {
+      "unit": "34-东-活动-18",
+      "week": 34,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "失联",
+      "effective_segment": "34-东-活动-18"
+    },
+    {
+      "unit": "34-东-活动-2",
+      "week": 34,
+      "stratum": "东-活动",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "34-东-活动-2"
+    },
+    {
+      "unit": "34-东-走读-14",
+      "week": 34,
+      "stratum": "东-走读",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "34-东-走读-14"
+    },
+    {
+      "unit": "34-东-走读-13",
+      "week": 34,
+      "stratum": "东-走读",
+      "site": "东",
+      "outcome": "拒绝出证",
+      "effective_segment": "34-东-走读-13"
+    },
+    {
+      "unit": "34-东-走读-11",
+      "week": 34,
+      "stratum": "东-走读",
+      "site": "东",
+      "outcome": "失联",
+      "effective_segment": "34-东-走读-11"
+    },
+    {
+      "unit": "32-内-走读-9",
+      "week": 32,
+      "stratum": "内-走读",
+      "site": "内",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-内-走读-9"
+    },
+    {
+      "unit": "32-内-走读-1",
+      "week": 32,
+      "stratum": "内-走读",
+      "site": "内",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-内-走读-1"
+    },
+    {
+      "unit": "33-内-走读-9",
+      "week": 33,
+      "stratum": "内-走读",
+      "site": "内",
+      "outcome": "失联",
+      "effective_segment": "33-内-走读-9"
+    },
+    {
+      "unit": "34-内-走读-22",
+      "week": 34,
+      "stratum": "内-走读",
+      "site": "内",
+      "outcome": "拒绝出证",
+      "effective_segment": "34-内-走读-22"
+    },
+    {
+      "unit": "34-内-走读-19",
+      "week": 34,
+      "stratum": "内-走读",
+      "site": "内",
+      "outcome": "拒绝出证",
+      "effective_segment": "34-内-走读-19"
+    },
+    {
+      "unit": "34-内-走读-7",
+      "week": 34,
+      "stratum": "内-走读",
+      "site": "内",
+      "outcome": "拒绝出证",
+      "effective_segment": "34-内-走读-7"
+    },
+    {
+      "unit": "34-内-走读-9",
+      "week": 34,
+      "stratum": "内-走读",
+      "site": "内",
+      "outcome": "拒绝出证",
+      "effective_segment": "34-内-走读-9"
+    },
+    {
+      "unit": "32-南-活动-16",
+      "week": 32,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "失联",
+      "effective_segment": "32-南-活动-16"
+    },
+    {
+      "unit": "32-南-活动-5",
+      "week": 32,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "失联",
+      "effective_segment": "32-南-活动-5"
+    },
+    {
+      "unit": "32-南-活动-21",
+      "week": 32,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-南-活动-21"
+    },
+    {
+      "unit": "32-南-活动-10",
+      "week": 32,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "拒绝出证",
+      "effective_segment": "32-南-活动-10"
+    },
+    {
+      "unit": "33-南-活动-6",
+      "week": 33,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "失联",
+      "effective_segment": "33-南-活动-6"
+    },
+    {
+      "unit": "33-南-活动-20",
+      "week": 33,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "失联",
+      "effective_segment": "33-南-活动-20"
+    },
+    {
+      "unit": "33-南-活动-5",
+      "week": 33,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "失联",
+      "effective_segment": "33-南-活动-5"
+    },
+    {
+      "unit": "33-南-活动-11",
+      "week": 33,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "拒绝出证",
+      "effective_segment": "33-南-活动-11"
+    },
+    {
+      "unit": "34-南-活动-16",
+      "week": 34,
+      "stratum": "南-活动",
+      "site": "南",
+      "outcome": "失联",
+      "effective_segment": "34-南-活动-16"
+    }
+  ]
+}

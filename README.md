@@ -11,4 +11,34 @@
 使用 Python 3.11。
 本地虚拟环境可按 `python3 -m pip install -r requirements.txt` 安装锁定的数值工具。有隔离运行环境时可直接使用已安装版本。
 
-用 `python3 -m json.tool data/records.json` 查看原始记录。用 `python3 -m unittest discover -s tests -v` 核对演练资料的格式及关联。仓库目前只提供资料与输入核对，不提供业务分析结果。
+用 `python3 -m json.tool data/records.json` 查看原始记录。用 `python3 -m unittest discover -s tests -v` 核对演练资料的格式及关联。
+
+## 分析流水线（audit 包）
+
+`audit/` 在资料核对之上提供完整的滚动复核分析，口径与资料字典一致：
+
+- `validation.py`：输入契约核对（冻结 n/N、回执关联、重复映射、发布契约）。
+- `frames.py`：区分**冻结版本**（抽取下达当时固定，之后永不改写）与**现行版本**
+  （纳入后补/重复申报）。重复申报折到同一物理参与段，按合并行数计算覆盖概率；
+  后补单位在旧抽取下机会为 0，只能由补抽 freeze 覆盖。
+- `sampling.py`：按有效抽样机会解释回执。纯指定核查不进随机分子分母；同一单位
+  兼具随机与指定身份时保留随机身份；重复行中签按 canonical 物理段只计一次。
+  失联、拒绝出证、未到场、待核严格区分，前两者按无应答保留未知影响。
+- `estimation.py`：HT 加权比例（原冻结单位与补抽单位各按其 freeze 的 π 取权）、
+  无应答未知份额的悲观/乐观边界、SRS 与 shared_activity 整群稳健两套方差
+  （取保守者），并按发布契约做覆盖率/最低确证/区间宽度门禁。
+- `scenarios.py`：用情景资料重跑完整估计（不改写历史 freeze），评估排程内补抽
+  与“缺口全补齐”理想情景能否解除发布障碍，并量化所需核查量。
+- `report.py` / `cli.py`：汇总结构化 JSON 与给编辑看的文字简报。
+
+运行：
+
+```bash
+python3 -m audit.cli data/records.json --json out/brief.json --markdown out/brief.md
+```
+
+输出含：适用总体版本覆盖、分层随机估计、总体与可发布分组判定、访员时段排程
+（已约核查不可取消、按站点约束）、可复用与须补抽清单、情景评估和发布结论。
+历史已发布周（`published_through` 及以前）只标注“不重新编辑”，任何新核查都
+不会回改已对外发出的值。
+
